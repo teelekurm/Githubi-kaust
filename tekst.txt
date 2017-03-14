@@ -1,1 +1,3 @@
-See on esimene rida githubi kodulehelt loodud tekstifailis
+Esimene rida githubi kodulehelt loodud tekstifailis
+Lisan teise rea
+Lisan kolmanda rea
