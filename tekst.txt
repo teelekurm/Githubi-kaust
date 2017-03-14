@@ -1,3 +1,5 @@
 Esimene rida githubi kodulehelt loodud tekstifailis
 Lisan teise rea
 Lisan kolmanda rea
+Lisan neljanda rea
+Lisan viienda rea
